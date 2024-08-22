@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CRUD_RegistrationAfiya_CO.props" />
+</Project>
